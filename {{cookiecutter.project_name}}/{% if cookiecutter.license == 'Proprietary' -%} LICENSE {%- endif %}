@@ -1,0 +1,2 @@
+{{ cookiecutter.friendly_name }}
+Copyright (C) {{ cookiecutter.copyright_year }} {{ cookiecutter.organization if cookiecutter.organization else cookiecutter.author }}
